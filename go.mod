@@ -1,3 +1,3 @@
-module github.com/PramudyaDivaAlamsyah/GO_SAY_HELLO //nama modulenya
+module github.com/PramudyaDivaAlamsyah/GO_SAY_HELLO
 
-go 1.18 //versi go nya
+go 1.18
